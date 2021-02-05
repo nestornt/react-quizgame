@@ -1,0 +1,17 @@
+.fa {
+    color: white;
+    font-weight: 700;
+    border: black solid 3px;
+    border-radius: 6rem;
+    font-size: xx-large;
+    width: 40px;
+    margin-right: 8%;
+    float: right;
+    background-color: $colour-2;
+    outline: none;
+
+    &:hover{
+        outline: none;
+    }
+  
+}

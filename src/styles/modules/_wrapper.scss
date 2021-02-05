@@ -1,0 +1,11 @@
+.wrapper {
+  margin-right: auto; // Espacio entre el margen y el contenido
+  margin-left:  auto;
+  height: 100%;       // Altura del div
+  max-width: 960px;
+  padding-right: 10px;
+  padding-left:  10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
